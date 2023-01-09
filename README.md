@@ -1,4 +1,4 @@
-# ECE1195
+# ECE1195_Lab2
 Lab 2 project for Advanced Digital Design class
 
 Implement a MIPS processor (CPU). The main component of any CPU is the Arithmetic Logic Unit (ALU). This is where all the arithmetic, logic,
